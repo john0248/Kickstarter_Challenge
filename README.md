@@ -7,7 +7,7 @@ After analyzing the original data retrieved from Kickstarter, filter the data se
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date 
 At the beginning of the project we are told Louise has already met most of her funding goals. Before she launches the “Fever” funding campaign, it is important to understand if the launch date could influence the success of the campaign.  Instead of looking at the entire dataset, a focused analysis on the performance of other plays within the Theater parent category was done.  This focused analysis is depicted in the line chart name “Theater Outcomes Based on Launch Date”.
-   
+Kickstarter Resources/Theater_Outcomes_vs_Launch.png   
 ### Analysis of Outcomes Based on Goals
 A second analysis into the outcomes of projects based on initial goal funding requested was completed.   We keep our analysis focused on plays with the Theater parent category.  The projects goal funding had a large range from less than $1000 to greater than $50,000.  We binned the goal funding into 12 bins to clearly see patterns.    
 
